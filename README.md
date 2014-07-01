@@ -17,7 +17,7 @@ jacobemerick\shuffle_slightly($array, 2);
 Through [composer](http://getcomposer.org):
 
 ```bash
-$ composer require jacobemerick\shuffle_slightly:~1.0
+$ composer require jacobemerick/shuffle_slightly:~1.0
 ```
 
 ## More Information
